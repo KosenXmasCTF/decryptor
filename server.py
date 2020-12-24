@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3
 from Crypto.Util.number import *
 from base64 import b64encode, b64decode
 
